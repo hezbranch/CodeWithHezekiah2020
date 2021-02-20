@@ -1,4 +1,4 @@
-# CodeWithHezekiah2020
+# CodeWithHezekiah
 Resources for the Code with Hezekiah workshops at Tufts University
 
 Please click the binder button below to access the notebooks.
